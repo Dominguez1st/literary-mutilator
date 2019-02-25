@@ -1,7 +1,7 @@
 function change(){
-	document.getElementById("para1").style.color = 'lightBlue';
+	document.getElementById("para1").style.color = 'blue';
 	document.getElementById("para1").style.fontFamily = 'Impact';
-	document.getElementById("para1").style.backgroundColor = 'lightyellow';
+	document.getElementById("para1").style.backgroundColor = 'yellow';
 }function changeBack(){
 	document.getElementById("para1").style.color = 'black';
 	document.getElementById("para1").style.fontFamily = 'times new roman';
